@@ -14,3 +14,11 @@ Step 2: Install MySQL Connector for .NET
    1. Open your project in Visual Studio.
    2. Go to Tools → NuGet Package Manager → Manage NuGet Packages.
    3. Search for MySql.Data and install it.
+
+
+Step 3:
+
+Change your Username passwords forms connections
+
+        string connectionString = "Server=localhost;Database=ClientRegistrationDB;User ID=root;Password=;";
+ 
