@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|e:\\ishara aiya project c#\\c# cw project\\course work project\\viewcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8649AEA5-766E-4F2D-B0CE-6BCD8880FE0B}|course work project.csproj|solutionrelative:viewcustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:28:21.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:28:20.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:28:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:28:06.636Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignIn.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\SignIn.cs",
+              "RelativeToolTip": "SignIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:27:49.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\SignIn.cs",
+              "RelativeDocumentMoniker": "SignIn.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\SignIn.cs [Design]",
+              "RelativeToolTip": "SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:27:47.458Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\SignUp.cs",
+              "RelativeToolTip": "SignUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:27:23.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\SignUp.cs [Design]",
+              "RelativeToolTip": "SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T14:27:20.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewCustomerForm.cs [Design]",
+              "DocumentMoniker": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\ViewCustomerForm.cs",
+              "RelativeDocumentMoniker": "ViewCustomerForm.cs",
+              "ToolTip": "E:\\Ishara aiya project c#\\C# cw Project\\course work project\\ViewCustomerForm.cs [Design]",
+              "RelativeToolTip": "ViewCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:06:06.287Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
