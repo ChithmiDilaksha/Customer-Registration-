@@ -1,0 +1,16 @@
+USE ClientRegistrationDB;
+CREATE TABLE Clients (
+    ID VARCHAR(20) PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL,
+    Address VARCHAR(255),
+    Phone VARCHAR(20),
+    Email VARCHAR(100),
+    Categories VARCHAR(255)
+);
+
+
+
+Step 2: Install MySQL Connector for .NET
+   1. Open your project in Visual Studio.
+   2. Go to Tools → NuGet Package Manager → Manage NuGet Packages.
+   3. Search for MySql.Data and install it.
