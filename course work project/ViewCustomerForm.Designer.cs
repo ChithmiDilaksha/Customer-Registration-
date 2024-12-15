@@ -38,6 +38,7 @@
             this.buttonView = new System.Windows.Forms.Button();
             this.buttonBack = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.buttonSaveDeatilsCSV = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -45,6 +46,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.panel1.Controls.Add(this.buttonSaveDeatilsCSV);
             this.panel1.Controls.Add(this.textBoxSearch);
             this.panel1.Controls.Add(this.labelID);
             this.panel1.Controls.Add(this.buttonSearch);
@@ -106,7 +108,7 @@
             // 
             this.buttonUpdate.BackColor = System.Drawing.Color.RoyalBlue;
             this.buttonUpdate.ForeColor = System.Drawing.Color.Azure;
-            this.buttonUpdate.Location = new System.Drawing.Point(419, 484);
+            this.buttonUpdate.Location = new System.Drawing.Point(324, 484);
             this.buttonUpdate.Name = "buttonUpdate";
             this.buttonUpdate.Size = new System.Drawing.Size(176, 47);
             this.buttonUpdate.TabIndex = 59;
@@ -160,6 +162,18 @@
             this.label1.TabIndex = 34;
             this.label1.Text = "View Customers";
             // 
+            // buttonSaveDeatilsCSV
+            // 
+            this.buttonSaveDeatilsCSV.BackColor = System.Drawing.Color.RoyalBlue;
+            this.buttonSaveDeatilsCSV.ForeColor = System.Drawing.Color.Azure;
+            this.buttonSaveDeatilsCSV.Location = new System.Drawing.Point(539, 484);
+            this.buttonSaveDeatilsCSV.Name = "buttonSaveDeatilsCSV";
+            this.buttonSaveDeatilsCSV.Size = new System.Drawing.Size(176, 47);
+            this.buttonSaveDeatilsCSV.TabIndex = 64;
+            this.buttonSaveDeatilsCSV.Text = "Save Deatils In to CSV";
+            this.buttonSaveDeatilsCSV.UseVisualStyleBackColor = false;
+            this.buttonSaveDeatilsCSV.Click += new System.EventHandler(this.buttonSaveDeatilsCSV_Click);
+            // 
             // ViewCustomerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -187,5 +201,6 @@
         private System.Windows.Forms.Button buttonUpdate;
         private System.Windows.Forms.TextBox textBoxSearch;
         private System.Windows.Forms.Label labelID;
+        private System.Windows.Forms.Button buttonSaveDeatilsCSV;
     }
 }

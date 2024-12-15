@@ -1,6 +1,8 @@
 ﻿using MySql.Data.MySqlClient; // MySQL library 
 using System;
 using System.Data;
+using System.Data.SqlClient;
+using System.IO;
 using System.Windows.Forms;
 
 namespace course_work_project
@@ -181,6 +183,52 @@ namespace course_work_project
                 }
             }
         }
+
+        private void buttonSaveDeatilsCSV_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                // Modified query to order clients by Name in ascending order
+                string query = "SELECT * FROM Clients ORDER BY Name ASC";
+
+                using (MySqlConnection conn = new MySqlConnection(connectionString))
+                {
+                    conn.Open();
+                    MySqlCommand cmd = new MySqlCommand(query, conn);
+                    MySqlDataReader reader = cmd.ExecuteReader();
+
+                    // Get the Desktop path dynamically
+                    string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                    string filePath = Path.Combine(desktopPath, "clients.csv");
+
+                    using (StreamWriter writer = new StreamWriter(filePath))
+                    {
+                        // Write the CSV header
+                        writer.WriteLine("ID,Name,Address,Phone,Email,Categories");
+
+                        // Write each row from the database to the CSV file
+                        while (reader.Read())
+                        {
+                            string line = $"{reader["ID"]},{reader["Name"]},{reader["Address"]},{reader["Phone"]},{reader["Email"]},{reader["Categories"]}";
+                            writer.WriteLine(line);
+                        }
+                    }
+
+                    // Show success message
+                    MessageBox.Show($"Clients saved successfully to Desktop!\nFile Path: {filePath}",
+                                    "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                    // Open the file automatically
+                    System.Diagnostics.Process.Start("explorer.exe", filePath);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("An error occurred: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+
 
     }
 }
